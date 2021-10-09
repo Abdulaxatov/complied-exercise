@@ -1,0 +1,12 @@
+.todo__delete-btn {
+  background-color: transparent;
+  border: none;
+}
+
+.todo__delete-btn {
+  width: 30px;
+  height: 16px;
+  background-image: url("../img/exit\ icon.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+}
